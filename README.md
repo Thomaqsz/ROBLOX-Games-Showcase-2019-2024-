@@ -57,10 +57,11 @@ https://github.com/user-attachments/assets/e3d6e53f-0579-4ae9-ac27-9b7e2981f96b
 ## 🚀 Contributions (Commission-based)
 I have contributed technical scripts and full-game systems for several large communities, including:
 * **[Siresty](https://www.roblox.com/communities/8675153/Siresty#!/about)**
-* **[Siblings Cafe](https://www.roblox.com/communities/3111229/Siblings-Cafe#!/about)** (13k+ Members)
 * **[Waypoint Hotels](roblox.com/communities/6877074/Waypoint-Hotels)** (123k+ Members)
+* **[Siblings Cafe](https://www.roblox.com/communities/3111229/Siblings-Cafe#!/about)** (13k+ Members)
 * **[SteakOut](roblox.com/communities/3167619/SteakOut)** (12k+ Members)
 * **[Sugar Street](https://www.roblox.com/communities/6639544/Sugar-Street#!/about)** (2k+ Members)
+* **[Vertisize](https://www.roblox.com/communities/5668667/Vertisize#!/about)** (1k+ Members)
 * **[LazerBlox](https://www.roblox.com/communities/7365455/L-zerBlox#!/about)** (1k+ Members)
 * **[Bubblize](https://www.roblox.com/communities/8357543/Bubblize#!/about)** (1k+ Members)
 * **[Venturous Studio](https://www.roblox.com/communities/15034718/Venturous-Studio#!/about)**
@@ -72,6 +73,7 @@ I have contributed technical scripts and full-game systems for several large com
 ## 🔗 Other games I've worked on
 * **[The Holy Island [Story]](https://www.roblox.com/games/5179971354/The-Holy-Island)**
 * **[Visions Hangout](https://www.roblox.com/games/7363535613/Visions-Hangout)**
+* **[Titanic Game](https://www.roblox.com/games/3142350604/Titanic-Game)** 
 * **[LazerBlox](https://www.roblox.com/games/6016466012/LazerBlox)**
 * **[Leaning Tower of Chaos](https://www.roblox.com/games/86961673940334/Leaning-Tower-of-Chaos)**
 * **[Minigame Mania!](https://www.roblox.com/games/9842355881/Minigame-Mania)**
