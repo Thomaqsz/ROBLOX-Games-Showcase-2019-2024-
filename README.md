@@ -34,12 +34,19 @@ https://drive.google.com/file/d/1aS0aRp0unWHaTUWTpf4Om9YwYFHZ1wqn/view?usp=shari
 https://github.com/user-attachments/assets/651e8233-6076-48f7-8bff-a91ad48907b9
 
 ### Quest System (with cutscene)
-> **Featured System:** Secure staff doors and rank-locked management tools.
+> **Featured System:** A system that allows a player to do a quest.
 https://github.com/user-attachments/assets/d679aacd-2320-45e8-b88b-2369239e4af4
 
 ### 🎮 Game Mechanics & Loops
-> **Featured System:** Quest systems and shop interfaces for story-based games.
+> **Featured System:** Main game systems for story-based, minigames, and roleplaying games.
 
+### Player Queueing System
+> **Featured System:** A queueing system with game teleportation.
+https://github.com/user-attachments/assets/f81fc78d-4348-46a2-9c6a-fc0ae3c02a56
+
+### Minigame System
+> **Featured System:** A minigame system that includes an intermission and a minigame picker.
+https://github.com/user-attachments/assets/749d7e58-157d-4ab3-8b30-ff1a5f63ca54
 
 ---
 
