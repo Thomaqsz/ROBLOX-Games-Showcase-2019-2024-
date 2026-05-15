@@ -48,13 +48,36 @@ https://github.com/user-attachments/assets/f81fc78d-4348-46a2-9c6a-fc0ae3c02a56
 > **Featured System:** A minigame system that includes an intermission and a minigame picker.
 https://github.com/user-attachments/assets/749d7e58-157d-4ab3-8b30-ff1a5f63ca54
 
+### Shop System
+> **Featured System:** An interactive shop system that lists all gamepasses/items.
+https://github.com/user-attachments/assets/e3d6e53f-0579-4ae9-ac27-9b7e2981f96b
+
 ---
 
-## 🚀 Experience & Contributions
+## 🚀 Contributions (Commission-based)
 I have contributed technical scripts and full-game systems for several large communities, including:
-* **Siblings Cafe** (13k+ Members)
-* **Waypoint Hotels** (40k+ Members)
-* **Jackell Cafe** (500+ Members)
+* **[Siresty](https://www.roblox.com/communities/8675153/Siresty#!/about)**
+* **[Siblings Cafe](https://www.roblox.com/communities/3111229/Siblings-Cafe#!/about)** (13k+ Members)
+* **[Waypoint Hotels](roblox.com/communities/6877074/Waypoint-Hotels)** (123k+ Members)
+* **[SteakOut](roblox.com/communities/3167619/SteakOut)** (12k+ Members)
+* **[Sugar Street](https://www.roblox.com/communities/6639544/Sugar-Street#!/about)** (2k+ Members)
+* **[LazerBlox](https://www.roblox.com/communities/7365455/L-zerBlox#!/about)** (1k+ Members)
+* **[Bubblize](https://www.roblox.com/communities/8357543/Bubblize#!/about)** (1k+ Members)
+* **[Venturous Studio](https://www.roblox.com/communities/15034718/Venturous-Studio#!/about)**
+* **[Jackell Cafe](https://www.roblox.com/communities/5306140/Jackell-Cafe#!/about)**
+* **[Visions Hangout](roblox.com/communities/12081432/Visions-Hangout)**
+* **[Crafter Studios](https://www.roblox.com/communities/4406127/Crafter-Studios#!/about)**
+* **[Noetic Studios](https://www.roblox.com/communities/9283688/Noetic-Studios#!/about)**
+
+## 🔗 Other games I've worked on
+* **[The Holy Island [Story]](https://www.roblox.com/games/5179971354/The-Holy-Island)**
+* **[Visions Hangout](https://www.roblox.com/games/7363535613/Visions-Hangout)**
+* **[LazerBlox](https://www.roblox.com/games/6016466012/LazerBlox)**
+* **[Leaning Tower of Chaos](https://www.roblox.com/games/86961673940334/Leaning-Tower-of-Chaos)**
+* **[Minigame Mania!](https://www.roblox.com/games/9842355881/Minigame-Mania)**
+* **[Escape The Hospital Obby](https://www.roblox.com/games/5938319363/Escape-The-Hospital-Obby)**
+* **[Waypoint Hotels](https://www.roblox.com/games/5837406597/Work-at-a-Hotel-Waypoint-Hotels)**
+
 
 ## 🛠️ Specialized Systems Developed
 * **Story Game Logic**: Designed full game loops for horror and adventure titles like *The Holy Island*.
@@ -67,10 +90,7 @@ I have contributed technical scripts and full-game systems for several large com
 * **Data Management**: Implementation of secure player data saving (`DataStoreService`).
 * **UI/UX Development**: Scripting interactive GUIs, pop-ups, and custom HUDs.
 
-## 🔗 Featured Projects
-* **Visions Hangout** - Social experience scripting.
-* **Snowfall Cafe | V1** - Full cafe environment logic.
-* **Bubblize Boba Shop** - Ordering and drink systems.
+
 
 ---
 **Note:** Due to the nature of commissions, some source code for these projects is private or owned by the respective clients. This repository contains snippets and video demonstrations of the logic applied.
