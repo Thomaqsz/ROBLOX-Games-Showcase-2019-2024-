@@ -78,7 +78,6 @@ I have contributed technical scripts and full-game systems for several large com
 * **[Escape The Hospital Obby](https://www.roblox.com/games/5938319363/Escape-The-Hospital-Obby)**
 * **[Waypoint Hotels](https://www.roblox.com/games/5837406597/Work-at-a-Hotel-Waypoint-Hotels)**
 
-
 ## 🛠️ Specialized Systems Developed
 * **Story Game Logic**: Designed full game loops for horror and adventure titles like *The Holy Island*.
 * **Minigame Framework**: Built a scalable system for *Venturous Minigames* supporting 20+ unique game modes.
@@ -89,8 +88,6 @@ I have contributed technical scripts and full-game systems for several large com
 * **Networking**: Efficient use of `RemoteEvents` and `RemoteFunctions` for Client-Server communication.
 * **Data Management**: Implementation of secure player data saving (`DataStoreService`).
 * **UI/UX Development**: Scripting interactive GUIs, pop-ups, and custom HUDs.
-
-
 
 ---
 **Note:** Due to the nature of commissions, some source code for these projects is private or owned by the respective clients. This repository contains snippets and video demonstrations of the logic applied.
